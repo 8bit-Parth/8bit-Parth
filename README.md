@@ -1,4 +1,4 @@
-![MasterHead](https://proeffico.com/wp-content/uploads/2022/07/devOps-cloud-native-1.gif)
+![MasterHead]([https://proeffico.com/wp-content/uploads/2022/07/devOps-cloud-native-1.gif](https://www.devops-influential.com/wp-content/uploads/2023/02/DEVOPS.gif))
 
 <h1 align="center">Hi 👋, I'm Parth Rana</h1>
 <h3 align="center">A Cloud DevOps Enthusiast from India</h3>
