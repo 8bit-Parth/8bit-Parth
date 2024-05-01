@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:786/format:webp/1*Zl-hfbBLYrj8KZ9shw7ROg.gif)
+![MasterHead](![image](https://github.com/8bit-Parth/8bit-Parth/assets/77335035/4eedaff7-8d40-4593-aba2-996ec2ef36e3))
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Parth Rana</h1>
 <h3 align="center">A Cloud DevOps Enthusiast from India</h3>
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parthrana7091@gmail.com**
 <br>
-[![](https://visitcount.itsvg.in/api?id=8bit-Parth&icon=2&color=9)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=8bit-Parth&label=Profile%20views&color=0e75b6&style=flat" alt="8bit-Parth" /> </p>
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
 # 💻 Tech Stack:
@@ -48,3 +48,4 @@ Here's the arrangement of technologies by category:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
+[![](https://visitcount.itsvg.in/api?id=8bit-Parth&icon=2&color=9)](https://visitcount.itsvg.in)
