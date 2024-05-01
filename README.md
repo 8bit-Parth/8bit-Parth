@@ -10,8 +10,8 @@
 - 📫 How to reach me **parthrana7091@gmail.com**
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8bit-Parth&label=Profile%20views&color=0e75b6&style=flat" alt="8bit-Parth" /> </p>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*Zl-hfbBLYrj8KZ9shw7ROg.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=8bit-Parth&label=Profile%20views&color=0e75b6&style=flat" alt="8bit-Parth" /> </p>
+<img align="center" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*Zl-hfbBLYrj8KZ9shw7ROg.gif">
 <img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
 
 # 💻 Tech Stack:
