@@ -1,4 +1,4 @@
-![MasterHead](![image](https://github.com/8bit-Parth/8bit-Parth/assets/77335035/4eedaff7-8d40-4593-aba2-996ec2ef36e3))
+![MasterHead](https://github.com/8bit-Parth/8bit-Parth/assets/77335035/4eedaff7-8d40-4593-aba2-996ec2ef36e3)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Parth Rana</h1>
 <h3 align="center">A Cloud DevOps Enthusiast from India</h3>
