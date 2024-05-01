@@ -1,4 +1,4 @@
-![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQ1NDE3NDgsIm5iZiI6MTcxNDU0MTQ0OCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTAxVDA1MzA0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA3YTIwZmIxZDNhNTRkMTUyZjkwODk2M2NjOWRmYTFlM2MzZGM3MjNmMTkyNDdhM2VhZTg3ZTFiYmVjYjEzZjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6z6l-0KOkWSeetpCnDk6amvD59iIAFJ3L1WML2-sEQo)
+![MasterHead](https://camo.githubusercontent.com/428849a3d464b1157a940971233a54d081bfa7ea3f3a47c62d1e2854c0e19566/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />, I'm Parth Rana</h1>
 <h3 align="center">A Cloud DevOps Enthusiast from India</h3>
@@ -10,4 +10,9 @@
 - 🌱 I’m currently learnig **AWS, Kubernetes, Other DevOps tools and Tech**
 
 - 📫 How to reach me **parthrana7091@gmail.com**
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=8bit-Parth&label=Profile%20views&color=0e75b6&style=flat" alt="8bit-Parth" /> </p>
+<img src="https://github.com/KKhushhalR2405/Bio/blob/master/border.gif" width="1100px" height="10px"></h2>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/codingknite/codingknite/main/programming.gif"/>
   
